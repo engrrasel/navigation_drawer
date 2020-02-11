@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    <string name="website">www.fb.com/jolontoogni</string>
+    <string name="Home">Home</string>
+    <string name="login_signup">Login / Signup</string>
+    <string name="notification">Notification</string>
+    <string name="language">Language</string>
+    <string name="tnc">Trams and Conditions</string>
+    <string name="share">Share</string>
+    <string name="rating">Rating</string>
+    <string name="logout">logout</string>
+
+</resources>
